@@ -4,3 +4,8 @@ div {
   width: 50%;
   margin: auto;
 }
+
+header {
+  text-align: center;
+  background: green;
+  border-style: dotted;
