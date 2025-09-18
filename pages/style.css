@@ -1,4 +1,6 @@
 div {
-  background: blue;
+  background: skyblue;
   border-style: ridge;
+  width: 50%;
+  margin: auto;
 }
