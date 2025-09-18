@@ -4,10 +4,11 @@ div {
   width: 50%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 header {
   text-align: center;
   background: green;
   border-style: dotted;
+}
