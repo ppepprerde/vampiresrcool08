@@ -13,4 +13,6 @@ header {
   background: green;
   border-style: ridge;
   width: 50%
+  margin-left: auto;
+  margin-right: auto;
 }
