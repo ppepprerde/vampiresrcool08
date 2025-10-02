@@ -11,7 +11,8 @@ div {
 
 header {
   text-align: center;
-  background: green;
+  background: #2ade30;
+  background: radial-gradient(circle, rgba(42, 222, 48, 1) 0%, rgba(33, 150, 37, 1) 100%);
   border-style: ridge;
   width: 50%;
   margin-left: auto;
