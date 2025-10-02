@@ -1,5 +1,6 @@
 div {
-  background: skyblue;
+  background: #80d4ff;
+  background: radial-gradient(circle, rgba(128, 212, 255, 1) 0%, rgba(76, 146, 173, 1) 100%);
   border-style: ridge;
   width: 50%;
   margin-left: auto;
